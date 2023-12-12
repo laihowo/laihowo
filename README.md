@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Machine Learning**.
 - 🤔 I’m looking for help with **Neural Network**.
 - 💬 Ask me about **Git**.
-- 📫 How to reach me: **My Profile on the Left Hand Side***
+- 📫 How to reach me: **My Profile on the Left Hand Side**
 - 😄 Pronouns: **He**
 - ⚡ Fun fact: **Dancing with Dumbbell**
 
