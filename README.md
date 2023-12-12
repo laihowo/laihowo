@@ -10,13 +10,13 @@
 - ⚡ Fun fact: **Dancing with Dumbbell**
 
 ```python
-class Misa:
+class Benny:
     def __init__(self):
-        self.name = "Misa Kamijo"
-        self.dob = "1995-09-07"
-        self.work = 'Junior Software Engineer'
-        self.education1 = 'Atomi University of Tokyo'
-        self.education2 = 'Hyperion Dev Bootcamp'
+        self.name = "Benny LAI"
+        self.dob = "2 Aug"
+        self.work = 'Data Enthusiast'
+        self.education1 = 'The Hong Kong PolyU'
+        self.education2 = 'HyperionDev Bootcamp of Python Data Science'
         self.hobbies = [
             'Watching Formula 1, movies',
             'Cooking',
@@ -24,21 +24,21 @@ class Misa:
         ]
 
     def current_location(self):
-        return 'Birmingham, United Kingdom'
+        return 'England, United Kingdom'
 
     def previous_locations(self):
-        return 'Tokyo, Japan'
+        return 'Hong Kong'
 
-misa = Misa()
+bennny = Benny()
 
-print("I'm", misa.name)
-print("My birthday is", misa.dob)
-print("I work as:", misa.work)
-print("I graduated from", misa.education1)
-print("currently studying software engineering at", misa.education2)
-print("Hobbies:", misa.hobbies)
-print("Current Location:", misa.current_location())
-print("Previous Locations:", misa.previous_locations())
+print("I'm", benny.name)
+print("My birthday is", benny.dob)
+print("I work as", benny.work)
+print("I graduated from", benny.education1)
+print("Currently studying at", benny.education2)
+print("Hobbies:", benny.hobbies)
+print("Current Location:", benny.current_location())
+print("Previous Locations:", benny.previous_locations())
 ```
 
 ## 🛠 Skills
