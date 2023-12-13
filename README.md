@@ -10,16 +10,16 @@
 - ⚡ Fun fact: **Dancing with Dumbbell**
 
 ```python
-class Benny:
+class Profile:
     def __init__(self):
-        self.name = "Benny LAI"
-        self.dob = "2 Aug"
+        self.name = 'Benny LAI'
+        self.dob = '2 Aug'
         self.work = 'Data Enthusiast'
-        self.education1 = 'The Hong Kong PolyU'
+        self.education = 'The Hong Kong PolyU'
         self.education2 = 'HyperionDev Bootcamp of Python Data Science'
         self.hobbies = [
-            'Watching Formula 1, movies',
-            'Cooking',
+            'Badminton',
+            'Hiking',
             'Travelling'
         ]
 
@@ -29,16 +29,16 @@ class Benny:
     def previous_locations(self):
         return 'Hong Kong'
 
-bennny = Benny()
+benny = Profile()
 
-print("I'm", benny.name)
-print("My birthday is", benny.dob)
-print("I work as", benny.work)
-print("I graduated from", benny.education1)
-print("Currently studying at", benny.education2)
-print("Hobbies:", benny.hobbies)
-print("Current Location:", benny.current_location())
-print("Previous Locations:", benny.previous_locations())
+print(f'My name is {benny.name}.')
+print(f'My birthday is {benny.dob}.')
+print(f'My work is {benny.work}.')
+print(f'My mother school is {benny.education}.')
+print(f'Currently studying at {benny.education2}.')
+print(f'My Hobbies: {benny.hobbies}')
+print(f'Current Location: {benny.current_location()}')
+print(f'Previous Locations: {benny.previous_locations()}')
 ```
 
 ## 🛠 Skills
@@ -63,6 +63,5 @@ print("Previous Locations:", benny.previous_locations())
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="200" height="200">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" style="display: block; margin-left: auto; margin-right: auto; width: 50;">
 </picture>
--->
