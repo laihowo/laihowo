@@ -51,13 +51,11 @@ print(f'Previous Locations: {benny.previous_locations()}')
 ## 🔗 Links
 [![HyperionDev CoGrammar Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hyperiondev.com/portfolio/206190/)
 
-<p align="center">
 ![GitHub Stats Overview Light](https://raw.githubusercontent.com/laihowo/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![GitHub Stats Languages Light](https://raw.githubusercontent.com/laihowo/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![GitHub Stats Overview Dark](https://raw.githubusercontent.com/laihowo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![GitHub Stats Overview Dark](https://raw.githubusercontent.com/laihowo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-</p>
 
 ## 🆔 Authors
 - @laihowo
